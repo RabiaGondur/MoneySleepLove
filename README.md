@@ -13,7 +13,7 @@ If you use any part of this code, please cite our [paper](https://github.com/Rab
 ```
 @article{
 title={Money, Sleep, and Love: The Effects of Income and Sleeping Arrangements on Relationships},
-author={Gondur, Rabia and Fernandez, Kevin and Wai, Nicholas}
+author={Gondur, Rabia and Fernandez, Kevin and Wai, Nicholas},
 class={CISC5450 Mathematics for Data Science, Fordham University},
 year={2022}
 }
